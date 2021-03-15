@@ -1,0 +1,3 @@
+=== Python Notes
+
+Foles as a quick reference on things I've read about Python
