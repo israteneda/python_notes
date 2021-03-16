@@ -1,3 +1,5 @@
 === Python Notes
 
+NOTE: This is an annotation 
+
 Files as a quick reference on things I've read about Python
