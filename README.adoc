@@ -2,4 +2,6 @@
 
 NOTE: This is an annotation 
 
+IMPORTANT: Test important admonition
+
 Files as a quick reference on things I've read about Python
